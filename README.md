@@ -81,7 +81,7 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
