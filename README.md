@@ -14,7 +14,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/image.gif">
 </a>
 
-- 🏫  I'm a Computer engineer **Dumlupınar University**
+- 🏫  I'm a Computer engineer / **Dumlupınar University**
    
 - 🔭  I'm currently working on **Web Front-End Development**💻🤖
 
