@@ -1,30 +1,36 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/Earth.gif" width="40px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/Hi.gif" width="40px" />
   </a>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/image.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Web Front-End Development**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **ES6 JavaScript, Vue.js, and CSS**
+- 🏫  I'm a Computer engineer 
+   
+- 🔭  I'm currently working on **Web Front-End Development**💻🤖
+
+- 🌱  I'm currently  learning **ES6 JavaScript, Vue.js, and CSS**
+
+- 🤔  I’m looking for help with anything I am currently learning! 🤩
 
 
+
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/github.gif"></a>
 <br/>
  
 
@@ -66,7 +72,10 @@
   <a href="https://github.com/abdurrahmanseyidoglu">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrahmanseyidoglu&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
+  </br>
   <a href="https://github.com/abdurrahmanseyidoglu">
+    </br>
+    </br>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahmanSeyidoglu&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
@@ -81,7 +90,7 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
@@ -92,7 +101,7 @@
   </a>
  
   <a href="https://twitter.com/llseyidoglu" target="_blank">
-    <code><img height="60" width="60" src="https://w7.pngwing.com/pngs/872/50/png-transparent-computer-icons-social-media-logo-twitter-social-media-blue-logo-social-media-thumbnail.png"/></code>
+    <code><img height="60" width="60" src="https://seeklogo.com/images/T/twitter-bird-icon-logo-B5634C6F6A-seeklogo.com.png"/></code>
   </a>
   
 </p>
