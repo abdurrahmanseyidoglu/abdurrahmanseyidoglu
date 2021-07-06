@@ -39,18 +39,44 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 
+<a href="https://www.w3.org/html/" target="_blank">
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
+  </a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+  </a>
+<a href="https://sass-lang.com/" target="_blank">
 <code><img height="40" width="40" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png"></code>
-<code><img height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></code>
-<code><img height="40" width="35" src="https://e7.pngegg.com/pngimages/1013/132/png-clipart-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird.png"></code>
-<code><img height="40" width="40" src="https://mozilla.github.io/nunjucks/img/favicon.png"></code>
+  </a>
+<a href="https://www.javascript.com/" target="_blank">
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+ </code>
+    </a>
+
+ <a href="https://vuejs.org/" target="_blank">
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>  </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">   
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  </a>
+
+<a href="https://www.python.org/" target="_blank">  
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  </a>
+
+<a href="https://code.visualstudio.com/docs" target="_blank">  
+<code><img height="40" width="40" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png"></code>  </a>
+
+<a href="https://git-scm.com/doc" target="_blank">  
+<code><img height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>  </a>
+
+<a href="https://github.com/" target="_blank">  
+<code><img height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></code>  </a>
+
+<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank">  
+<code><img height="40" width="35" src="https://e7.pngegg.com/pngimages/1013/132/png-clipart-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird.png"></code>  </a>
+
+<a href="https://mozilla.github.io/nunjucks/" target="_blank">
+<code><img height="40" width="40" src="https://mozilla.github.io/nunjucks/img/favicon.png"></code>  </a>
+
 <!-- <code><img height="40" width="40" src=""></code>
 <code><img height="40" width="40" src=""></code>
 <code><img height="40" width="40" src=""></code>
