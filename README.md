@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="400" alt="𝙶𝙸𝙵" src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/code.gif"></a>
 <br/>
  
 
