@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/image.gif">
+  <img align="right" height="300" width="400" alt="GIF" src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/developer.gif">
 </a>
 
 - 🏫  I'm a Computer engineer / **Dumlupınar University**
