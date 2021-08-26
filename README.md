@@ -108,12 +108,11 @@
 </details>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=AbdurrahmanSeyidoglu&theme=react-dark&hide_border=true&area=true)
 
 <br/>
 
 #
-<h1>
+<h1 align="center">
   Connect With Me
   <a target="_blank">
     <img src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/Handshake.gif" height="25px" style="max-width:100%;">
