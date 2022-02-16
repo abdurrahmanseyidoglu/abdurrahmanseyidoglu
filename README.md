@@ -39,7 +39,7 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" target="_blank">
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
   </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
