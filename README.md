@@ -39,8 +39,8 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 
-<a href="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" target="_blank">
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
+<a href="https://dev.w3.org/html5/spec-LC/" target="_blank">
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/html5-40-1175193.png"></code>
   </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
@@ -48,34 +48,27 @@
 <a href="https://sass-lang.com/" target="_blank">
 <code><img height="40" width="40" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"></code>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+<code><img height="40" width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"></code>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+<code><img height="40" width="40" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg"></code>
+  </a>
 <a href="https://www.javascript.com/" target="_blank">
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
  </code>
     </a>
-
+<a href="https://www.typescriptlang.org/" target="_blank">   
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  </a>
+<a href="https://reactjs.org/" target="_blank">   
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"></code>  </a>
  <a href="https://vuejs.org/" target="_blank">
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>  </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">   
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  </a>
-
-<a href="https://www.python.org/" target="_blank">  
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  </a>
-
-<a href="https://code.visualstudio.com/docs" target="_blank">  
-<code><img height="40" width="40" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png"></code>  </a>
 
 <a href="https://git-scm.com/doc" target="_blank">  
 <code><img height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>  </a>
 
-<a href="https://github.com/" target="_blank">  
-<code><img height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></code>  </a>
-
-<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank">  
-<code><img height="40" width="35" src="https://e7.pngegg.com/pngimages/1013/132/png-clipart-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird.png"></code>  </a>
-
-<a href="https://mozilla.github.io/nunjucks/" target="_blank">
-<code><img height="40" width="40" src="https://mozilla.github.io/nunjucks/img/favicon.png"></code>  </a>
 
 <!-- <code><img height="40" width="40" src=""></code>
 <code><img height="40" width="40" src=""></code>
@@ -88,7 +81,7 @@
 
 #
 
-<details open="">
+<!-- <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
@@ -105,7 +98,7 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahmanSeyidoglu&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-</details>
+</details> -->
 <br>
 
 
