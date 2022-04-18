@@ -20,7 +20,7 @@
 
 - 🌱  I'm currently  learning **ES6 JavaScript, Vue.js, and CSS**
 
-- 🤔  I’m looking for help with anything I am currently learning! 🤩
+- 🤔  I’m looking for help with anything I am currently learning! 
 
 
 
@@ -62,8 +62,6 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  </a>
 <a href="https://reactjs.org/" target="_blank">   
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"></code>  </a>
- <a href="https://vuejs.org/" target="_blank">
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>  </a>
 
 
 <a href="https://git-scm.com/doc" target="_blank">  
