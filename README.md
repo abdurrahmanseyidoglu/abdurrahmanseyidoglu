@@ -1,10 +1,10 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/Earth.gif" width="40px" style="max-width:40px !important;">
+    <img src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/Earth.gif" height="40" width="40">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/Hi.gif" width="40px" />
+    <img src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/Hi.gif" height="40" width="40"/>
   </a>
 </h1>
 
