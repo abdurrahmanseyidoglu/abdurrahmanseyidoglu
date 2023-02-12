@@ -29,63 +29,22 @@
 
 </h1>
 
-<!-- <code><img height="40" width="40" src=""></code>
-<code><img height="40" width="40" src=""></code>
-<code><img height="40" width="40" src=""></code>
-<code><img height="40" width="40" src=""></code>
-<code><img height="40" width="40" src=""></code>
-<code><img height="40" width="40" src=""></code>
- -->
-<br/>
 
-#
-
-<!-- <details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
-<p align="center">
-  <a href="https://github.com/abdurrahmanseyidoglu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrahmanseyidoglu&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  </br>
-  <a href="https://github.com/abdurrahmanseyidoglu">
-    </br>
-    </br>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahmanSeyidoglu&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-</details> -->
-<br>
-
-
-<br/>
-
-#
 <h1 align="center">
   Connect With Me
   <a target="_blank">
     <img src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
-</h1>
-
-<p align="center">
-  <br>
+<br/>
+  
   <a href="https://www.linkedin.com/in/abdurrahmanseyidoglu/" target="_blank">
     <code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/></code>
   </a>
- 
   <a href="https://twitter.com/llseyidoglu" target="_blank">
     <code><img height="60" width="60" src="https://seeklogo.com/images/T/twitter-bird-icon-logo-B5634C6F6A-seeklogo.com.png"/></code>
   </a>
-  
-</p>
-<br/>
 
-<style>
-.AnimatedImagePlayer-images .AnimatedImagePlayer-animatedImage{
-  widrh:40px;
-  }
-</style>
+
+
+
+
