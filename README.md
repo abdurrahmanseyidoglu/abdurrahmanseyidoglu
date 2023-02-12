@@ -8,65 +8,26 @@
   </a>
 </h1>
 
-<br/>
-<br/>
-<a target="_blank">
-  <img align="right" height="300" width="400" alt="GIF" src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/developer.gif">
-</a>
-
-- 🏫  I'm a Computer engineer / **Dumlupınar University**
-   
-- 🔭  I'm currently working on **Web Front-End Development**💻🤖
-
-- 🌱  I'm currently  learning **ES6 JavaScript, Vue.js, and CSS**
-
-- 🤔  I’m looking for help with anything I am currently learning! 
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<a target="_blank"><img align="left" height="300" width="400" alt="𝙶𝙸𝙵" src="https://github.com/abdurrahmanseyidoglu/abdurrahmanseyidoglu/blob/main/code.gif"></a>
-<br/>
- 
-
-#
-
+<h1 align="center">
+  
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 
-<a href="https://dev.w3.org/html5/spec-LC/" target="_blank">
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/html5-40-1175193.png"></code>
-  </a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-  </a>
-<a href="https://sass-lang.com/" target="_blank">
-<code><img height="40" width="40" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"></code>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-<code><img height="40" width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"></code>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-<code><img height="40" width="40" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg"></code>
-  </a>
-<a href="https://www.javascript.com/" target="_blank">
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
+<img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/html5-40-1175193.png">
+<img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<img height="40" width="40" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"></code>
+<img height="40" width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"></code>
+<img height="40" width="40" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg"></code>
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
  </code>
-    </a>
-<a href="https://www.typescriptlang.org/" target="_blank">   
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  </a>
-<a href="https://reactjs.org/" target="_blank">   
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"></code>  </a>
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
+<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"></code>
+<img height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
+<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg">
 
-
-<a href="https://git-scm.com/doc" target="_blank">  
-<code><img height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>  </a>
-
+</h1>
 
 <!-- <code><img height="40" width="40" src=""></code>
 <code><img height="40" width="40" src=""></code>
