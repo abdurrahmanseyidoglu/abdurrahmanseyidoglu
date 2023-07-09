@@ -16,8 +16,8 @@
 
 <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/html5-40-1175193.png">
 <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<img height="40" width="40" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"></code>
-<img height="40" width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"></code>
+<img height="40" width="40" src="https://sass-lang.com/assets/img/logos/logo.svg"></code>
+<img height="40" width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"></code>
 <img height="40" width="40" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg"></code>
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
  </code>
